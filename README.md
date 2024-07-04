@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jarimaw
+- 👋 Hi, I’m @jari
 - 👀 I’m interested in ... videogames
 - 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ...
